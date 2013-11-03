@@ -2,13 +2,21 @@
 <rss version="2.0">
 <channel>
         <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
+        <description>Jekyll Bootstrap - Yohaï Berreby</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2013-11-03T18:24:48+01:00</lastBuildDate>
-        <pubDate>2013-11-03T18:24:48+01:00</pubDate>
+        <lastBuildDate>2013-11-03T18:59:49+01:00</lastBuildDate>
+        <pubDate>2013-11-03T18:59:49+01:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Hello World</title>
+                <description></description>
+                <link>http://username.github.io/2013/11/03/hello-world</link>
+                <guid>http://username.github.io/2013/11/03/hello-world</guid>
+                <pubDate>2013-11-03T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
