@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title></title>
+    <title>{{ page.name }}</title>
     <link rel="stylesheet" href="/stylesheets/styles.css">
     <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -29,17 +29,7 @@
                 <span class="credits right"><a href="https://flattr.com/submit/auto?user_id=filsmick&url=http%3A%2F%2Fgithub.com%2Ffilsmick%2F" target="_blank"><img src="//api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" style="height: 15px;"></a></span>
               </div>
 
-          <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    
-      <li><span>05 Nov 2013</span> &raquo; <a href="/2013/11/05/hello-world.html">Hello, world!</a></li>
-    
-      <li><span>03 Nov 2013</span> &raquo; <a href="/jekyll/update/2013/11/03/welcome-to-jekyll.html">Welcome to Jekyll!</a></li>
-    
-  </ul>
-</div>
-
+          {{ content }}
 
             </section>
           </div>

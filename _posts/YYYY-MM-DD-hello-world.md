@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello, world!"
-description: ""
+description: "Just a simple post."
 category: ""
 tags: []
 ---
@@ -31,3 +31,7 @@ Paragraph
 Edit the TextShower() function at the end of the script file. The first argument is text transition duration, second is margin transition duration, third is text transition timing function, fourth is margin transition timing function and fifth is a boolean that means "should we add a dynamic '+' sign to the box title". Default values are respectively 0.8s, 0.3s, ease, linear and true.
 
 Edit the TextShower() function at the end of the script file. The first argument is text transition duration, second is margin transition duration, third is text transition timing function, fourth is margin transition timing function and fifth is a boolean that means "should we add a dynamic '+' sign to the box title". Default values are respectively 0.8s, 0.3s, ease, linear and true.
+
+``` javascript
+var code_snippet = this;
+``
