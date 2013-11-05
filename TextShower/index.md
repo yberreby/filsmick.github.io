@@ -92,4 +92,4 @@ Default values are respectively <strong>0.8s</strong>, <strong>0.3s</strong>, <s
 <p>If you like TextShower and want it and all my projects to grow, you can flattr me with the button below.</p>
 <script id='fbt8xsh'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=filsmick&button=compact&url=http%3A%2F%2Fgithub.com%2Ffilsmick';f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbt8xsh');</script>
 
-<script src="http://filsmick.github.io/TextShower/TextShower.js"></script>
+<script src="/javascripts/TextShower.js"></script>
