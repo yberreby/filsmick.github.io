@@ -546,7 +546,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #e8e8e8;
-  margin: 0 0 10px;
+  margin-right: 0;
+  margin-left: 0;
+  margin-bottom: 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
@@ -863,4 +865,13 @@ section #title .credits.right {
 }
 #page-head h1, #page-head p {
   text-align: center;
+}
+
+body {
+  zoom: 130%;
+}
+
+h3.TextShower-title {
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
