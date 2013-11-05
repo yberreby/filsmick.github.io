@@ -5,4 +5,10 @@ excerpt: Available on <a href="http://github.com/filsmick/">GitHub</a>
 ---
 
 ## TextShower
-A super simple, flexible Javascript and CSS text slider. [Check it out here](http://filsmick.github.io/TextShower/)
+A super simple, flexible Javascript and CSS text slider.  
+Stade : Public Beta Testing  
+[Check it out here](http://filsmick.github.io/TextShower/)
+
+
+## SEC (Self Employed Calculator)
+
