@@ -872,6 +872,6 @@ body {
 }
 
 h3.TextShower-title {
-  margin-top: 3px;
-  margin-bottom: 3px;
+  margin-top: 0;
+  margin-bottom: 6px;
 }
