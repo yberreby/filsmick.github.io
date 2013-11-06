@@ -87,15 +87,16 @@ Default values are respectively <strong>0.8s</strong>, <strong>0.3s</strong>, <s
 </div>
 
 ### Download
-Latest stable version: [here](/javascripts/TextShower.js)  
-Latest stable minified version: [here](/javascripts/TextShower.min.js)  
+Latest stable version: <a href="/javascripts/TextShower.js" download>Download</a>  
+Latest stable minified version: <a href="/javascripts/TextShower.min.js" download>Download</a>  
+*Do a right click on the link and select "Save as..." or "Download linked file as..." to download*
 
 If you want to have the very newest builds, simply [download the master branch](https://github.com/filsmick/TextShower/archive/master.zip) of the repository. You will find TextShower.js, TextShower.min.js, an HTML test page, the license and the readme. Be careful! Some things may be broken because these builds are not fully tested.
 
 ### Credits
 
-<p>Made by <a href="https://github.com/filsmick" class="user-mention">@filsmick</a> with <strong>Sublime Text 2</strong> and GitHub.</p>
-<p>If you like TextShower and want it and all my projects to grow, you can flattr me with the button below.</p>
+Made by <a href="https://github.com/filsmick" class="user-mention">@filsmick</a> with <strong>Sublime Text 2</strong> and GitHub.  
+If you like TextShower and use it regularily, you can flattr me with the button below.  
 <script id='fbt8xsh'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=filsmick&button=compact&url=http%3A%2F%2Fgithub.com%2Ffilsmick';f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbt8xsh');</script>
 
 <script src="/javascripts/TextShower.js"></script>
