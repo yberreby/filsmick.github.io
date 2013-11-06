@@ -2,3 +2,4 @@ name: filsmick’s blog
 markdown: redcarpet
 pygments: true
 permalink: pretty
+watch: true
