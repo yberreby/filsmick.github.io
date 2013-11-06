@@ -1,6 +1,6 @@
 ---
 layout: default
-name: {{ page.title }} - filsmick's blog
+name: {{ page.title }}
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
