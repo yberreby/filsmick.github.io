@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: filsmick's blog
 ---
 
 <div id="home">
