@@ -1,6 +1,5 @@
 ---
 layout: default
-name: {{ page.title }}
 ---
 <div id="page-head">
 	<h1>{{ page.title }}</h1>
