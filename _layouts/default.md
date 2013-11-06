@@ -15,9 +15,16 @@
     <link rel="stylesheet" href="stylesheets/ie.css">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
   </head>
+
   <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="/">Home</a></li>
+          <li class="fork"><a href="https://github.com/filsmick">View on GitHub</a></li>
+          <li class="fork"><a href="/TextShower/">TextShower</a></li>
+        </nav>
+      </div><!-- end header -->
           <div class="wrapper">
             <section>
 
