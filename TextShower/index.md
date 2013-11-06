@@ -86,6 +86,12 @@ Default values are respectively <strong>0.8s</strong>, <strong>0.3s</strong>, <s
 <p class="TextShower-text">The content of the text boxes may brievely show up during the page load. It's because the Javascript loads after the HTML, so the content gets hided after the loading is completed. You can choose to have a smooth animation at load by customising the function's arguments, but most of the time this problem doesn't occur.</p>
 </div>
 
+### Download
+Latest stable version: [here](/javascripts/TextShower.js)  
+Latest stable minified version: [here](/javascripts/TextShower.min.js)  
+
+If you want to have the very newest builds, simply [download the master branch](https://github.com/filsmick/TextShower/archive/master.zip) of the repository. You will find TextShower.js, TextShower.min.js, an HTML test page, the license and the readme. Be careful! Some things may be broken because these builds are not fully tested.
+
 ### Credits
 
 <p>Made by <a href="https://github.com/filsmick" class="user-mention">@filsmick</a> with <strong>Sublime Text 2</strong> and GitHub.</p>
