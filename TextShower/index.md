@@ -83,7 +83,7 @@ Default values are respectively <strong>0.8s</strong>, <strong>0.3s</strong>, <s
 <div class="TextShower-box">
 <h3 class="TextShower-title" id="caveat">Caveat</h3>
 
-<p class="TextShower-text">The content of the text boxes may brievely show up during the page load. It's because the Javascript loads after the HTML, so the content gets hided after the loading is completed. You can choose to have a smooth animation at load by customising the function's arguments, but most of the time this problem doesn't occur.</p>
+<p class="TextShower-text">The content of the text boxes may brievely show up during the page load. It's because the Javascript loads after the HTML, so the content gets hided after the loading is completed. But don't worry, most of the time it don't happens, or only at the first connection.</p>
 </div>
 
 ### Download
@@ -96,7 +96,7 @@ If you want to have the very newest builds, simply [download the master branch](
 ### Credits
 
 Made by <a href="https://github.com/filsmick" class="user-mention">@filsmick</a> with <strong>Sublime Text 2</strong> and GitHub.  
-If you like TextShower and use it regularily, you can flattr me with the button below.  
+If you like TextShower and use it regularly, you can flattr me with the button below.  
 <script id='fbt8xsh'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=filsmick&button=compact&url=http%3A%2F%2Fgithub.com%2Ffilsmick';f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbt8xsh');</script>
 
 <script src="/javascripts/TextShower.js"></script>
