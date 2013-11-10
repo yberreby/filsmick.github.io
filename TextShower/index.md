@@ -91,7 +91,9 @@ Latest stable version: <a href="/javascripts/TextShower.js" download>Download</a
 Latest stable minified version: <a href="/javascripts/TextShower.min.js" download>Download</a>  
 *Do a right click on the link and select "Save as..." or "Download linked file as..." to download*
 
-If you want to have the very newest builds, simply [download the master branch](https://github.com/filsmick/TextShower/archive/master.zip) of the repository. You will find TextShower.js, TextShower.min.js, an HTML test page, the license and the readme. Be careful! Some things may be broken because these builds are not fully tested.
+If you want to have the very newest builds, simply [download the master branch](https://github.com/filsmick/TextShower/archive/master.zip) of the repository. You will find TextShower.js, TextShower.min.js, an HTML test page, the license and the readme. Be careful! Some things may be broken because these builds are not fully tested.  
+
+Feel free to edit the code to achieve your goals. It's open source, after all!
 
 ### Credits
 
