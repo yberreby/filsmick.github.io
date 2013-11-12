@@ -101,4 +101,4 @@ Made by <a href="https://github.com/filsmick" class="user-mention">@filsmick</a>
 If you like TextShower and use it regularly, you can flattr me with the button below.  
 <script id='fbt8xsh'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=filsmick&button=compact&url=http%3A%2F%2Fgithub.com%2Ffilsmick';f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbt8xsh');</script>
 
-<script src="/javascripts/TextShower/TextShower.min.js"></script>
+<script src="/javascripts/TextShower.js"></script>
