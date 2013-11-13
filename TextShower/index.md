@@ -2,6 +2,7 @@
 layout: page
 title: TextShower
 excerpt: Super simple, lightweight, Pure JS and CSS text slider.
+GitUrl: TextShower
 ---
 
 ###Welcome to TextShower
