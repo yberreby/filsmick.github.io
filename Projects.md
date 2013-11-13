@@ -2,6 +2,7 @@
 layout: page
 title: All my projects
 excerpt: Available on <a href="http://github.com/filsmick/">GitHub</a>
+permalink: /projects/
 ---
 
 ## TextShower
