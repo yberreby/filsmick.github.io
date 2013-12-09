@@ -8,7 +8,6 @@ permalink: /TextShower/
 ### TextShower live example
 
 Here's an example of what TextShower can do. Check the source of this page if you want!
->>>>>>> 83f5a666e42547a8123a92b90ee20488221acf10
 
 <div class="TextShower-box"> 
 <strong class="TextShower-title">Hey, I'm a title! Click me!</strong> 
@@ -19,8 +18,7 @@ Here's an example of what TextShower can do. Check the source of this page if yo
 
 <div class="TextShower-box"> 
 <strong class="TextShower-title">I'm another title !</strong> 
-<p class="TextShower-text">My title doesn't have a '+' in it if there is no Javascript. But if there is and you click it, it will become a '-'! You can customize that in the arguments.<br>
-Div, strong and p are the most suitable HTML tags to use.</p>
+<p class="TextShower-text">My title doesn't have a '+' in it if there is no Javascript. But if there is and you click it, it will become a '-'! You can customize that in the arguments.</p>
 </div>
 
 <p>The margin, the padding and the height of the boxes are animated. </p>
