@@ -25,9 +25,7 @@ Div, strong and p are the most suitable HTML tags to use.<br />
 
 <p>The margin, the padding and the height are animated. </p>
 
-### Download
-Downloads are on the [releases page](https://github.com/filsmick/TextShower/releases/latest/).
-
-If you want to have the very newest builds, simply [download the master branch](https://github.com/filsmick/TextShower/archive/master.zip) of the repository. You will find TextShower.js, TextShower.min.js, an HTML test page, the license, the readme, the pure JavaScript version and the latest Stable builds. Be careful! Some things may be broken because these builds are not fully tested.
+### Download and instructions
+Downloads are on the [releases page](https://github.com/filsmick/TextShower/releases/latest/) and instructions are in the [README](https://github.com/filsmick/TextShower#readme).
 
 <script src="/javascripts/TextShower.min.js"></script>
