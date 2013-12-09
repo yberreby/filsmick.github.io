@@ -5,10 +5,9 @@ excerpt: Super simple, lightweight, Pure JS and CSS text slider.
 permalink: /TextShower/
 ---
 
-###Welcome to TextShower
+### Welcome to TextShower
 
-TextShower is an alternative to all these heavy, hard to use jQuery scripts that slow down the client and the server. TextShower lets you create super simple sliders and customise them in an easy way.  
-Example :
+TextShower is an alternative to all these heavy, hard to use jQuery scripts that slow down the client and the server. TextShower lets you create super simple sliders and customise them in an easy way. Example :
 
 <div class="TextShower-box"> 
 <strong class="TextShower-title">Hey, I'm a title! Click me!</strong> 
@@ -20,72 +19,10 @@ Example :
 <div class="TextShower-box"> 
 <strong class="TextShower-title">I'm another title !</strong> 
 <p class="TextShower-text">My title doesn't have a '+' in it if there is no Javascript. But if there is and you click it, it will become a '-'! You can customize that in the arguments.<br>
-Div, strong and p are the most suitable HTML tags to use.<br />
-</p>
+Div, strong and p are the most suitable HTML tags to use.</p>
 </div>
 
-<p>The margin, the padding and the height are animated. </p>
-
-<div class="TextShower-box">
-<h3 class="TextShower-title" id="how-to-use">How to use</h3>
-
-<div class="TextShower-text">
-<p>Upload TextShower.js or TextShower.min.js to your FTP server</p>
-<p>All you need is this code :</p>
-
-<div class="highlight highlight-html"><pre><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"TextShower-box"</span><span class="nt">&gt;</span> 
-<span class="nt">&lt;strong</span> <span class="na">class=</span><span class="s">"TextShower-title"</span><span class="nt">&gt;</span>Title<span class="nt">&lt;/strong&gt;</span> 
-<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">"TextShower-text"</span><span class="nt">&gt;</span>Content<span class="nt">&lt;/p&gt;</span>
-<span class="nt">&lt;/div&gt;</span>
-</pre></div>
-
-<p>Then embed the script at the end of the code : </p>
-
-<div class="highlight highlight-html"><pre><span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"path/to/TextShower.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-</pre></div>
-
-<p><strong>...and you're done!</strong></p>
-
-<p>If you want to customise the script behavior, go to the <a href="#advanced-use">Advanced use</a> section.</p>
-
-</div>
-
-<div class="TextShower-box">
-<h3 class="TextShower-title" id="advanced-use">Advanced use</h3>
-
-<div class="TextShower-text">
-<p>Settings are set in two steps : in the .js file, and in a custom meta tag. You can specify general settings in the file and page-wide settings in the meta tag, that will overwrite the general ones. </p>
-
-<strong>General settings</strong>
-
-<p>Edit the <code>TextShower()</code> function at the end of the script file. The first argument is text transition duration, second is margin transition
-duration, third is text transition timing function, fourth is margin transition timing function and fifth is a boolean that means "should we add a
-dynamic '+' sign to the box title".
-Default values are respectively <strong>0.8s</strong>, <strong>0.3s</strong>, <strong>ease</strong>, <strong>linear</strong> and <strong>true</strong>.</p>
-
-<p>Function template:</p>
-
-<div class="highlight highlight-javascript"><pre><span class="nx">TextShower</span><span class="p">(</span><span class="s1">'0.8s'</span><span class="p">,</span> <span class="s1">'0.3s'</span><span class="p">,</span> <span class="s1">'ease'</span><span class="p">,</span> <span class="s1">'linear'</span><span class="p">,</span> <span class="kc">true</span><span class="p">);</span>
-</pre></div>
-
-<br />
-<strong>Local settings</strong>
-
-<p>Custom meta tag template:</p>
-
-<div class="highlight highlight-html"><pre><span class="nt">&lt;meta</span> <span class="na">data-TextShower=</span><span class="s">"0.8s 0.3s ease linear true"</span> <span class="nt">/&gt;</span>
-</pre></div>
-
-<p>Just add this tag to your webpage's header and edit it. The arguments are in the same order than for the function. You can change only some settings by writing <strong>none</strong> where you want a default behavior.</p>
-
-<p>TextShower can handle anchors. If the anchor is the title element, its box will unfold at page load.</p>
-</div>
-
-<div class="TextShower-box">
-<h3 class="TextShower-title" id="caveat">Caveat</h3>
-
-<p class="TextShower-text">The content of the text boxes may brievely show up during the page load. It's because the Javascript loads after the HTML, so the content gets hided after the loading is completed. But don't worry, most of the time it don't happens, or only at the first connection.</p>
-</div>
+<p>The margin, the padding and the height of the boxes are animated. </p>
 
 ### Download
 Latest stable version: <a href="/javascripts/TextShower.js" download>Download</a>  
