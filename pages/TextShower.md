@@ -21,7 +21,14 @@ Here's an example of what TextShower can do. Check the source of this page if yo
 <p class="TextShower-text">My title doesn't have a '+' in it if there is no Javascript. But if there is and you click it, it will become a '-'! You can customize that in the arguments.</p>
 </div>
 
-<p>The margin, the padding and the height of the boxes are animated. </p>
+The margin, the padding and the height of the boxes are animated.
+
+TextShower also handle **anchors**. Click here.
+
+<div class="TextShower-box"> 
+<strong class="TextShower-title" id="anchor-box">I'm an anchor-triggered box.</strong> 
+<p class="TextShower-text">As you can see, when you click me, your browser scrolls to my position and I unfold smoothly. Perfect for very long files! Just give an id to the title of your box and create a link to it to use this feature.</p>
+</div>
 
 
 ### Download and instructions
