@@ -23,7 +23,7 @@ Here's an example of what TextShower can do. Check the source of this page if yo
 
 The margin, the padding and the height of the boxes are animated.
 
-TextShower also handle **anchors**. Click here.
+TextShower also handle **anchors**. [Click here](#anchor-box).
 
 <div class="TextShower-box"> 
 <strong class="TextShower-title" id="anchor-box">I'm an anchor-triggered box.</strong> 
