@@ -16,9 +16,10 @@ Here's an example of what TextShower can do. Check the source of this page if yo
 
 <p>I'm a simple paragraph. I'm dynamically moved as the textbox above me unfolds.</p>
 
-<div class="TextShower-box"> 
+<div class="TextShower-box TextShower-open"> 
 <strong class="TextShower-title">I'm another title !</strong> 
-<p class="TextShower-text">My title doesn't have a '+' in it if there is no Javascript. But if there is and you click it, it will become a '-'! You can customize that in the arguments.</p>
+<p class="TextShower-text">My title doesn't have a '+' in it if JavaScript is disabled. But if it is enabled and you click the title, the '+' will become a '-'! You can choose to disable this feature.<br/>
+I'm also open when the page loads because my box element has the <b>"TextShower-open"</b> class.</p>
 </div>
 
 The margin, the padding and the height of the boxes are animated.
